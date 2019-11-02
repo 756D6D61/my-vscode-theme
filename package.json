@@ -1,0 +1,16 @@
+{
+  "name": "my-vscode-theme",
+  "version": "1.0.0",
+  "description": "my first vs-code theme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vs-code",
+    "theme"
+  ],
+  "author": "UmmaGohil",
+  "license": "ISC",
+  "publisher": "UmmaGohil"
+}
