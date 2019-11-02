@@ -1,16 +1,11 @@
 {
   "name": "my-vscode-theme",
-  "version": "1.0.0",
-  "description": "my first vs-code theme",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "version": "0.0.1",
+  "publisher": "UmmaGohil",
+  "engines": {
+    "vscode": "^1.8.0"
   },
-  "keywords": [
-    "vs-code",
-    "theme"
-  ],
-  "author": "UmmaGohil",
-  "license": "ISC",
-  "publisher": "UmmaGohil"
+  "scripts": {
+    "vscode:prepublish": "UmmaGohil"
+  }
 }

@@ -2,7 +2,7 @@
 	"name": "First New Theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
+		"editor.background": "#000000",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#007acc",
 		"sideBarTitle.foreground": "#bbbbbb"
@@ -627,3 +627,4 @@
 		}
 	]
 }
+//2bcowrqf3bvzl4c4j4lrijkojpnbjld6jpuk6obywb7if67ixj4a
