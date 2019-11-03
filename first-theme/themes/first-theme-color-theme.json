@@ -1,11 +1,11 @@
 {
-	"name": "First New Theme",
+	"name": "first-theme",
 	"type": "dark",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#0000005e",
-		"activityBarBadge.background": "#000000",
-		"sideBarTitle.foreground": "#222222"
+		"editor.foreground": "#eeffff",
+		"activityBarBadge.background": "#007acc",
+		"sideBarTitle.foreground": "#bbbbbb"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +16,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#575757"
+				"foreground": "#546E7A"
 			}
 		},
 		{
@@ -26,7 +26,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff00ea"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -35,7 +35,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -45,7 +45,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#ff7d93"
+				"foreground": "#FF5370"
 			}
 		},
 		{
@@ -56,7 +56,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#68f39d"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -76,7 +76,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89ddff"
+				"foreground": "#89DDFF"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f0b7d3"
+				"foreground": "#f07178"
 			}
 		},
 		{
@@ -100,9 +100,9 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#d88ff5"
+				"foreground": "#82AAFF"
 			}
-		},//14:22 2/11/19
+		},
 		{
 			"name": "Block Level Variables",
 			"scope": [
@@ -627,4 +627,3 @@
 		}
 	]
 }
-//2bcowrqf3bvzl4c4j4lrijkojpnbjld6jpuk6obywb7if67ixj4a

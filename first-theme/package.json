@@ -1,7 +1,7 @@
 {
-    "name": "firsttheme",
-    "displayName": "firstTheme",
-    "description": "Mt first theme",
+    "name": "first-theme",
+    "displayName": "first-theme",
+    "description": "my first theme",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.39.0"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "First New Theme",
+                "label": "first-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/First New Theme-color-theme.json"
+                "path": "./themes/first-theme-color-theme.json"
             }
         ]
     }
