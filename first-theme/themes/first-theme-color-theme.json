@@ -5,7 +5,7 @@
 #C0A4F2 // pastel purple
 #A8CFE3 // pastel blue
 #00F68E // leaf green
-#FCA7AA // pastel pink
+#fca7c3 // pastel pink
 #F9DC56 // light yellow
 #FF4656 // toned-down red
 #E96EEB // electric purple/magenta
@@ -27,7 +27,7 @@
 		"editor.foreground": "#010b20",
 		"activityBarBadge.background": "#00FFB8",
 		"activityBar.background": "#010b20",
-		"sideBar.background": "#010b20"
+		"sideBar.background": "#010b20",
 	},
 	"tokenColors": [
 		{
@@ -77,7 +77,7 @@
 				
 			],//here2
 			"settings": {
-				"foreground": "#FCA7AA"
+				"foreground": "#fca7c3"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#FCA7AA"
+				"foreground": "#fca7c3"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#FCA7AA"
+				"foreground": "#fca7c3"
 			}
 		},
 		{
