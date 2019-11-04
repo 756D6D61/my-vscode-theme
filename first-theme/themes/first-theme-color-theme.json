@@ -77,7 +77,7 @@
 				
 			],//here2
 			"settings": {
-				"foreground": "#FFA3A7"
+				"foreground": "#FCA7AA"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#1BE5FF"
+				"foreground": "#FCA7AA"
 			}
 		},
 		{
