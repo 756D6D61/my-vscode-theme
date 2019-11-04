@@ -112,7 +112,7 @@
 				"foreground": "#f07178"
 			}
 		},
-		{
+		{//here
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
@@ -122,10 +122,10 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#FF00A7"
 			}
 		},
-		{//here
+		{
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
