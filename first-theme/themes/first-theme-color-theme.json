@@ -78,7 +78,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#1BE5FF"
 			}
 		},
 		{
@@ -112,7 +112,7 @@
 				"foreground": "#f07178"
 			}
 		},
-		{//here
+		{
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
@@ -175,7 +175,7 @@
 				"foreground": "#C0A4F2"
 			}
 		},
-		{
+		{//here
 			"name": "Class, Support",
 			"scope": [
 				"entity.name",
@@ -188,7 +188,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#00FFB8"
 			}
 		},
 		{
