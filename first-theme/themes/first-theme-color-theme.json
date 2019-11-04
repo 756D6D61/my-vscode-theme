@@ -23,10 +23,11 @@
 	"name": "first-theme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#000000",
-		"editor.foreground": "#000000",
-		"activityBarBadge.background": "#000000",
-		"sideBarTitle.foreground": "#a59999"
+		"editor.background": "#010b20",
+		"editor.foreground": "#010b20",
+		"activityBarBadge.background": "#FFA3A7",
+		"activityBar.background": "#010b20",
+		"sideBar.background": "#010b20"
 	},
 	"tokenColors": [
 		{
