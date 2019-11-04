@@ -71,9 +71,18 @@
 			}
 		},
 		{
-			"name": "Keyword, Storage",
+			"name": "Keyword",
 			"scope": [
 				"keyword",
+				
+			],//here2
+			"settings": {
+				"foreground": "#FFA3A7"
+			}
+		},
+		{
+			"name": "Storage",
+			"scope": [
 				"storage.type",
 				"storage.modifier"
 			],
