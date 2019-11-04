@@ -164,9 +164,9 @@
 				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
-			],
+			], //here5
 			"settings": {
-				"foreground": "#f76cec"
+				"foreground": "#FFF"
 			}
 		},
 		{
