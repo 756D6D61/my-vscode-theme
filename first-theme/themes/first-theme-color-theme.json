@@ -25,7 +25,7 @@
 	"colors": {
 		"editor.background": "#010b20",
 		"editor.foreground": "#010b20",
-		"activityBarBadge.background": "#FFA3A7",
+		"activityBarBadge.background": "#00FFB8",
 		"activityBar.background": "#010b20",
 		"sideBar.background": "#010b20"
 	},
@@ -48,7 +48,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#f17de8"
+				"foreground": "#00FFB8"
 			}
 		},
 		{
@@ -98,7 +98,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FFB9BB"
 			}
 		},
 		{
@@ -125,13 +125,13 @@
 				"foreground": "#82AAFF"
 			}
 		},
-		{
+		{//here
 			"name": "Block Level Variables",
 			"scope": [
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#A8CFE3"
 			}
 		},
 		{
@@ -172,7 +172,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#C0A4F2"
 			}
 		},
 		{
@@ -222,7 +222,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#440c15"
 			}
 		},
 		{
