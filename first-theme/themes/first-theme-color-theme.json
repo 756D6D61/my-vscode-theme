@@ -1,3 +1,23 @@
+//colours
+/*
+#FFA3A7 // dark pastel pink
+#C0A4F2 // pastel purple
+#A8CFE3 // pastel blue
+#00F68E // leaf green
+#FFB9BB // pastel pink
+#F9DC56 // light yellow
+#FF4656 // toned-down red
+#E96EEB // electric purple/magenta
+#00FFB8 // mint green
+#FFA031 // orange/ slightly yellow
+#FF2B00 // electric red
+#1BE5FF // bright blue
+#FF00A7 // bright pink
+#FF7800 // bright orange
+#5922FF // bright purple 
+#7C7C7C // dark grey 
+*/
+
 {
 	"name": "first-theme",
 	"type": "dark",
