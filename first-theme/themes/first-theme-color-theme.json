@@ -3,7 +3,8 @@
 #01122C // dark blue/black [background]
 #FFA3A7 // dark pastel pink
 #C0A4F2 // pastel purple
-#A8CFE3 // pastel blue
+#A8CFE3 // pastel blue [old]
+#9cd8f7 // new pastel blue
 #00F68E // leaf green
 #fca7c3 // pastel pink
 #F9DC56 // light yellow
@@ -140,7 +141,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#A8CFE3"
+				"foreground": "#9cd8f7"
 			}
 		},
 		{
