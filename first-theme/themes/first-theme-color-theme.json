@@ -25,7 +25,7 @@
 	"type": "dark",
 	"colors": {
 		"editor.background": "#010b20",
-		"editor.foreground": "#010b20",
+		"editor.foreground": "#00FFB8",
 		"activityBarBadge.background": "#00FFB8",
 		"activityBar.background": "#010b20",
 		"sideBar.background": "#010b20",
@@ -647,7 +647,7 @@
 				"punctuation.definition.fenced.markdown"
 			],
 			"settings": {
-				"foreground": "#00000050"
+				"foreground": "#bb9c9c50"
 			}
 		},
 		{
