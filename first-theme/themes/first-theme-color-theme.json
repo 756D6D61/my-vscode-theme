@@ -119,7 +119,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#d6cacb"
+				"foreground": "#00FFB8"
 			}
 		},
 		{ //split
@@ -585,7 +585,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#b4a39d"
+				"foreground": "#00FFB8"
 			}
 		},
 		{
