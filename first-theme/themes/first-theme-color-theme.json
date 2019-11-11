@@ -35,7 +35,7 @@
 			"name": "Comment",
 			"scope": [
 				"comment",
-				"punctuation.definition.comment"
+				"punctuation.definition.comment",
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -190,16 +190,26 @@
 			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
 			"scope": [
 				"constant.numeric",
-				"constant.language",
+				
 				"support.constant",
 				"constant.character",
 				"constant.escape",
+				
+			], //here5
+			"settings": {
+				"foreground": "#FFF"
+			}
+		},
+		{//changeit
+			"name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+			"scope": [
+				"constant.language",
 				"variable.parameter",
 				"keyword.other.unit",
 				"keyword.other"
 			], //here5
 			"settings": {
-				"foreground": "#FFF"
+				"foreground": "#FF00A7"
 			}
 		},
 		{
@@ -314,7 +324,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -323,7 +333,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -427,7 +437,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -688,6 +698,7 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		
 	]
 }
