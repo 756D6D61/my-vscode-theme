@@ -149,7 +149,7 @@
 				"foreground": "#f34db9"
 			}
 		},
-		{ //split4
+		{ 
 			"name": "Function, Special Method",
 			"scope": [
 				"support.function",
